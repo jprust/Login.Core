@@ -14,7 +14,7 @@ namespace Login.Core
             {
                 Console.WriteLine("Enter username");
                 string username = Console.ReadLine();
-        Console.WriteLine("Enter password");
+                Console.WriteLine("Enter password");
                 string password = Console.ReadLine();
 
                 if (username != "Archer" || password != "guest")
